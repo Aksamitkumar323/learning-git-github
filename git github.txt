@@ -1,0 +1,25 @@
+-- git status
+--git init
+--git config --global user.name "Amit Kumar"
+--git config --global user.email "amit.official323@gmail.com"
+--git add .
+--git status 
+--git commit -m"hey"
+
+git hub create repostery--copy repo link
+
+
+--git remote add origin linkof repo(git@github.com:Aksamitkumar323/learning-git-github.git)https
+
+**** git clone link(repo link) {for downloading}
+
+if you dont want to upload certain files create a file name .gitignore and then add the names of the files you want to ignore
+
+
+
+code update karne ke liye
+
+---git status
+---git add .
+---git commit -m"any message"
+--- git push origin master
